@@ -1,7 +1,12 @@
-[
+[ 
+    {
+        "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/5.jpg",
+        "title": "КРИВЕ - НОВИЙ ВИТКІВ",
+        "shortDesc": "ХІІ тур, 14.07.2019"
+    },
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/1.jpg",
-        "title": "СУШНО ?? КРИВЕ",
+        "title": "СУШНО 3-5 КРИВЕ",
         "shortDesc": "ХІ тур, 23.06.2019"
     },
     {
