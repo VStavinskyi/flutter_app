@@ -2,45 +2,21 @@
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/player_1.jpg",
         "title": "Андрій ШКРОБОТ",
-        "shortDesc": "Матчів зіграно: 12 
-Хвилин зіграно: 915
-М’ячів забито: 0
-Асистів: 0
-Сухі матчі: 1
-Жовті картки: 1
-Червоні картки: 1"
+        "shortDesc": "Матчів зіграно: 12"
     },
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/player_2.jpg",
         "title": "Дмитро ТОГАН",
-        "shortDesc": "Матчів зіграно: 12 
-Хвилин зіграно: 1080
-М’ячів забито: 0
-Асистів: 0
-Сухі матчі: 0
-Жовті картки: 1
-Червоні картки: 0"
+        "shortDesc": "Матчів зіграно: 12"
     },
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/player_3.jpg",
         "title": "Василь Ставінський",
-        "shortDesc": "Матчів зіграно: 13 
-Хвилин зіграно: 1170
-М’ячів забито: 1
-Асистів: 0
-Сухі матчі: 1
-Жовті картки: 2
-Червоні картки: 0"
+        "shortDesc": "Матчів зіграно: 13"
     },
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/player_4.jpg",
         "title": "Андрій Гнівушевський",
-        "shortDesc": "Матчів зіграно: 9 
-Хвилин зіграно: 548
-М’ячів забито: 5
-Асистів: 2
-Сухі матчі: 0
-Жовті картки: 1
-Червоні картки: 0"
+        "shortDesc": "Матчів зіграно: 9"
     }
 ]
