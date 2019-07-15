@@ -2,21 +2,45 @@
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/player_1.jpg",
         "title": "Андрій ШКРОБОТ",
-        "shortDesc": "Матчів зіграно: 12 Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12Матчів зіграно: 12"
+        "games": "Матчів зіграно: 12",
+        "drain": "Хвилин зіграно: 915",
+        "min": "М’ячів забито: 0",
+        "balls": "Асистів: 0",
+        "assists": "Сухі матчі: 1",
+        "y_card": "Жовті картки: 1",
+        "r_card": "Червоні картки: 1"
     },
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/player_2.jpg",
         "title": "Дмитро ТОГАН",
-        "shortDesc": "Матчів зіграно: 12"
+        "games": "Матчів зіграно: 12",
+        "drain": "Хвилин зіграно: 1080",
+        "min": "М’ячів забито: 0",
+        "balls": "Асистів: 0",
+        "assists": "Сухі матчі: 0",
+        "y_card": "Жовті картки: 1",
+        "r_card": "Червоні картки: 0"
     },
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/player_3.jpg",
         "title": "Василь Ставінський",
-        "shortDesc": "Матчів зіграно: 13"
+        "games": "Матчів зіграно: 13",
+        "drain": "Хвилин зіграно: 1170",
+        "min": "М’ячів забито: 1",
+        "balls": "Асистів: 0",
+        "assists": "Сухі матчі: 1",
+        "y_card": "Жовті картки: 2",
+        "r_card": "Червоні картки: 0"
     },
     {
         "imageUrl": "https://raw.githubusercontent.com/VStavinskyi/flutter_app/master/player_4.jpg",
         "title": "Андрій Гнівушевський",
-        "shortDesc": "Матчів зіграно: 9"
+        "games": "Матчів зіграно: 9",
+        "drain": "Хвилин зіграно: 548",
+        "min": "М’ячів забито: 5",
+        "balls": "Асистів: 2",
+        "assists": "Сухі матчі: 0",
+        "y_card": "Жовті картки: 1",
+        "r_card": "Червоні картки: 0"
     }
 ]
